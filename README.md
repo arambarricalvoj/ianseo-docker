@@ -18,7 +18,7 @@
 ### How To:
 Once the repository is cloned, run the following command from inside the ianseo directory:
 
-    docker-compose up
+    docker compose up -d
 
 When the containers have started, open your web browser and navigate to:
 
